@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="voce">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/voce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
